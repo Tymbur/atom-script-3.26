@@ -346,7 +346,7 @@
   "devDependencies": {
     "babel-eslint": "10.1.0",
     "eslint": "4.19.1",
-    "eslint-config-airbnb-base": "10.0.1",
+    "eslint-config-airbnb-base": "15.0.0",
     "eslint-plugin-import": "2.18.2"
   },
   "providedServices": {
